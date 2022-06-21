@@ -3,7 +3,7 @@
     padding: 0;
    
 }
-header{
+.container{
     background-image: url(../img/1.jpg);
     height:120vh ;
     background-size: cover;
