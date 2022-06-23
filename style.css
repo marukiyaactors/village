@@ -1,13 +1,13 @@
 *{
-    margin: 20;
-    padding: 20;
+    margin:0;
+    padding:0;
 }
 .main{
     width: 100%;
-    background-image: url('../img/1.jpg');
+    background-image: url('../img/1655620477425.jpg');
     background-position: center;
     background-size: cover;
-    height: 109vh;
+    height: 100vh;
 }
 .navbar{
     width: 1200px;
