@@ -24,7 +24,7 @@
     color: rgb(38, 210, 245);
     font-size: 35px;
     font-family: Arial;
-    padding-left: 400px;
+    padding-left: 300px;
     float:left;
     padding-top:30px ;
     
@@ -34,7 +34,7 @@
     width: 480px;
     float: right;
     height: 70px;
-    margin-right: 716px;
+    margin-right: 800px;
     margin-top: 0px;
     
     
@@ -92,7 +92,7 @@ ul li .active a{
    position: absolute;
   color: red;
    margin-top: 200px;
-   margin-left: -40px;
+   margin-left: 0px;
   
 }
 .dam{
