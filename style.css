@@ -18,7 +18,7 @@
     width:800px;
   float: left;
     height: 70px;
-    margin-left: 19px;
+    margin-left: -357px;
 }
 .logo{
     color: rgb(38, 210, 245);
@@ -33,7 +33,7 @@
     width: 480px;
     float: right;
     height: 70px;
-    margin-right: 335px;
+    margin-right: 716px;
     margin-top: 0px;
     
     
@@ -91,7 +91,7 @@ ul li .active a{
    position: absolute;
   color: red;
    margin-top: 200px;
-   margin-left: 350px;
+   margin-left: -40px;
   
 }
 .dam{
